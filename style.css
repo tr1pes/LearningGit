@@ -1,0 +1,13 @@
+body{
+	background-color: red;
+}
+h1{
+	font-size: 50px;
+}
+p{
+	text-decoration: underline;
+}
+img{
+	width:300px;
+	border-radius: 45px;
+}
